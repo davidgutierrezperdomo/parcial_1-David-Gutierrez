@@ -1,4 +1,55 @@
-.dark {
-    background: black;
-    color: white;
+.desarrolloweb{
+    background-color: aqua;
 }
+.diseñouxui{
+    background-color: blue;
+}
+.hosting{
+    background-color: blueviolet;
+}
+.marketingdital{
+    background-color: brown;
+}
+
+.SEO{
+    background-color: red;
+}
+
+.soportetecnico{
+    background-color: chartreuse;
+}
+
+.consultorias{
+    background-color: chocolate;
+}
+
+ 
+body {
+    background-color: #ffffff;
+    color: #212529;
+    margin: 0;
+    padding: 20px;
+    
+}
+.card-body{
+    background-color: orange;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+/* modo oscuro */
+body.dark {
+    background-color: #121212; 
+    color: #ffffff; 
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+
